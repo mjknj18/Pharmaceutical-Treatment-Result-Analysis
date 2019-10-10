@@ -8,7 +8,8 @@
 
 ## Datasets
 
-
+1. https://github.com/mjknj18/Pharmaceutical-Treatment-Result-Analysis/blob/master/Pharmaceutical%20Treatment%20Data/clinicaltrial_data.csv
+2. https://github.com/mjknj18/Pharmaceutical-Treatment-Result-Analysis/blob/master/Pharmaceutical%20Treatment%20Data/mouse_drug_data.csv
 
 ## Tasks
 
