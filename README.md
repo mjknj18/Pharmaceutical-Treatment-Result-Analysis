@@ -1,24 +1,13 @@
 # Pharmaceutical-Treatment-Result-Analysis
 
-
+The goal of this project was to calculate and display various performance metrics for four phareceutical cancer drugs (Capomulin, Infubinol, Ketapril, Placebo) on test mice over a 45 day treatment period. Since the baseline data was provided in CSV format, Python with Pandas, Numpy, and Matplotlib (through Jupyter Notebooks) was used to clean and process the data, as well as calculate the desired outputs.
 
 ## Questions
 
-### Tumor Response to Treatement
-
-
-
-### Metstatic Spread During Treatment
-
-
-
-### Survival During Treatment
-
-
-
-### Tumor Change Over 45 Day Treatment
-
-
+1. For each cancer drug, what was the tumor volume change in the test mice over the length of the treatment period?
+2. For each cancer drug, what was the metastatic site change in the test mice over the length of the treatment period?
+3. For each cancer drug, what was the survival rate of the test mice over the length of the treatment period?
+4. For each cancer drug, what the percentage change in tumor volume in the test mice over the length of the treatment period?
 
 ## Datasets
 
@@ -27,7 +16,7 @@
 
 ## Tasks
 
-### Tumor Response to Treatement
+### Tumor Response to Treatment
 
 
 
