@@ -4,6 +4,20 @@
 
 ## Questions
 
+### Tumor Response to Treatement
+
+
+
+### Metstatic Spread During Treatment
+
+
+
+### Survival During Treatment
+
+
+
+### Tumor Change Over 45 Day Treatment
+
 
 
 ## Datasets
@@ -13,9 +27,37 @@
 
 ## Tasks
 
+### Tumor Response to Treatement
+
+
+
+### Metstatic Spread During Treatment
+
+
+
+### Survival During Treatment
+
+
+
+### Tumor Change Over 45 Day Treatment
+
 
 
 ## Results
+
+### Tumor Response to Treatement
+
+
+
+### Metstatic Spread During Treatment
+
+
+
+### Survival During Treatment
+
+
+
+### Tumor Change Over 45 Day Treatment
 
 
 
