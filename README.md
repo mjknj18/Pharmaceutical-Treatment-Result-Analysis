@@ -45,21 +45,23 @@
 
 ## Results
 
+1. https://github.com/mjknj18/Pharmaceutical-Treatment-Result-Analysis/blob/master/Pharmaceutical_Treatment_Results_Main.ipynb
+
 ### Tumor Response to Treatement
 
-
+<img_src = https://github.com/mjknj18/Pharmaceutical-Treatment-Result-Analysis/blob/master/Images/Tumor_Response_to_Treatment.jpg>
 
 ### Metstatic Spread During Treatment
 
-
+<img_src = https://github.com/mjknj18/Pharmaceutical-Treatment-Result-Analysis/blob/master/Images/Metastatic_Spread_During_Treatment.jpg>
 
 ### Survival During Treatment
 
-
+<img_src = https://github.com/mjknj18/Pharmaceutical-Treatment-Result-Analysis/blob/master/Images/Survival_During_Treatment.jpg>
 
 ### Tumor Change Over 45 Day Treatment
 
-
+<img_src = https://github.com/mjknj18/Pharmaceutical-Treatment-Result-Analysis/blob/master/Images/Tumor_Change_Over_45_Day_Treatment.jpg>
 
 ## Observations
 
