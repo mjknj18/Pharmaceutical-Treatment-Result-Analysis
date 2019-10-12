@@ -21,14 +21,18 @@ The goal of this project was to calculate and display various performance metric
 1. Import the mouse data and clinical data CSV files as individual Pandas data frames.
 2. Merge individual data frames into combined data frame based on Mouse ID.
 3. Split the combined data frame into groups by drug and time index.
-4. Calculate mean tumor volume for each drug at each time index.
-5. Calculate tumor volume standard error for each drug at each time index.
+4. Calculate the average mean tumor volume for each drug at each time index.
+5. Calculate the tumor volume standard error for each drug at each time index.
 6. Create individual data frames for average volume and standard error data.
-7. Plot average volume data versus time with error bars defined by standard error data.
+7. Plot the average volume data versus time with error bars defined by standard error data.
 
 ### Metstatic Spread During Treatment
 
-
+1. Split the combined data frame into groups by drug and time index.
+2. Calculate the average number of metastatic sites for each drug at each time index.
+3. Calculate the metastatic site standard error for each drug at each time index.
+4. Create individual data frames for average metastatic site and standard error data.
+5. Plot the average metastatic site data versus time with error bars defined by standard error data.
 
 ### Survival During Treatment
 
