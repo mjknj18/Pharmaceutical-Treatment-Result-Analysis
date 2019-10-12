@@ -43,8 +43,8 @@ The goal of this project was to calculate and display various performance metric
 
 ### Tumor Change Over 45 Day Treatment
 
-1. Calculate percent change in average tumor volume data over full length of study.
-2. Plot percent change data for each drug.
+1. Calculate percent change in average tumor volume data over the full length of treatment period.
+2. Plot the percent change data for each drug.
 
 ## Results
 
