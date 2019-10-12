@@ -36,7 +36,10 @@ The goal of this project was to calculate and display various performance metric
 
 ### Survival During Treatment
 
-
+1. Split the combined data frame into groups by drug and time index.
+2. Calculate the number of surviving mice for each drug at each time index.
+3. Create a data frames for survivng mice data.
+4. Plot the survivng mice data versus time.
 
 ### Tumor Change Over 45 Day Treatment
 
