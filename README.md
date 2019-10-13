@@ -19,7 +19,7 @@ The goal of this project was to calculate and display various performance metric
 ### Tumor Response to Treatment
 
 1. Import the mouse data and clinical data CSV files as individual Pandas data frames.
-2. Merge individual data frames into combined data frame based on Mouse ID.
+2. Merge the individual data frames into a combined data frame based on unique mouse identification numbers.
 3. Split the combined data frame into groups by treatment and time index.
 4. Calculate the average mean tumor volume for each treatment at each time index.
 5. Calculate the tumor volume standard error for each treatment at each time index.
