@@ -19,14 +19,14 @@ The goal of this project was to calculate and display various performance metric
 ### Tumor Response to Treatment
 
 1. Import the mouse data and clinical data CSV files as individual Pandas data frames.
-2. Merge the individual data frames into a combined data frame based on unique mouse identification numbers.
+2. Merge the individual data frames into a combined data frame based on the unique mouse identification numbers.
 3. Split the combined data frame into groups by treatment and time index.
 4. Calculate the average mean tumor volume for each treatment at each time index.
 5. Calculate the tumor volume standard error for each treatment at each time index.
-6. Create individual data frames for average volume and standard error data.
-7. Plot the average volume data versus time with error bars defined by standard error data.
+6. Create individual data frames for the average volume and standard error data.
+7. Plot the average volume data versus time with error bars defined by the standard error data.
 
-### Metstatic Spread During Treatment
+### Metastatic Spread During Treatment
 
 1. Split the combined data frame into groups by treatment and time index.
 2. Calculate the average number of metastatic sites for each treatment at each time index.
@@ -54,7 +54,7 @@ The goal of this project was to calculate and display various performance metric
 
 <img src = https://github.com/mjknj18/Pharmaceutical-Treatment-Result-Analysis/blob/master/Images/Tumor_Response_to_Treatment.jpg>
 
-### Metstatic Spread During Treatment
+### Metastatic Spread During Treatment
 
 <img src = https://github.com/mjknj18/Pharmaceutical-Treatment-Result-Analysis/blob/master/Images/Metastatic_Spread_During_Treatment.jpg>
 
