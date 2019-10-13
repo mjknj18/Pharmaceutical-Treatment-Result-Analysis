@@ -7,7 +7,7 @@ The goal of this project was to calculate and display various performance metric
 1. For each treatment, what was the tumor volume change in the test mice over the length of the treatment period?
 2. For each treatment, what was the metastatic site change in the test mice over the length of the treatment period?
 3. For each treatment, what was the survival rate of the test mice over the length of the treatment period?
-4. For each treatment, what the percentage change in tumor volume in the test mice over the length of the treatment period?
+4. For each treatment, what was the percent change in tumor volume in the test mice over the length of the treatment period?
 
 ## Datasets
 
