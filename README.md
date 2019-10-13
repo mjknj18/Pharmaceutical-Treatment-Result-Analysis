@@ -76,4 +76,4 @@ Similar to the tumor volume change data, the mice survival rate data shows Capom
 
 ## Disclaimer
 
-The baseline data used for this analysis was provided by a third party source and its accuracy in relation to actual cancer pharmaceutical drug testing data is unknown.
+The baseline data used for this analysis was provided by a third party source and its accuracy in relation to actual pharmaceutical cancer treatment data is unknown.
