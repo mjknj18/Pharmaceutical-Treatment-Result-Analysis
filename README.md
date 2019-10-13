@@ -1,6 +1,6 @@
 # Pharmaceutical-Treatment-Result-Analysis
 
-The goal of this project was to calculate and display various performance metrics for four phareceutical cancer treatments (Capomulin, Infubinol, Ketapril, Placebo) on test mice over a 45 day treatment period. Since the baseline data was provided in CSV format, Python with Pandas, Numpy, and Matplotlib (through Jupyter Notebooks) was used to clean and process the data, as well as calculate the desired outputs.
+The goal of this project was to calculate and display various performance metrics for four pharmeceutical cancer treatments (Capomulin, Infubinol, Ketapril, Placebo) on test mice over a 45 day treatment period. Since the baseline data was provided in CSV format, Python with Pandas, Numpy, and Matplotlib (through Jupyter Notebooks) was used to clean and process the data, as well as calculate the desired outputs.
 
 ## Questions
 
