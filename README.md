@@ -50,7 +50,7 @@ The goal of this project was to calculate and display various performance metric
 
 1. https://github.com/mjknj18/Pharmaceutical-Treatment-Result-Analysis/blob/master/Pharmaceutical_Treatment_Results_Main.ipynb
 
-### Tumor Response to Treatement
+### Tumor Response to Treatment
 
 <img src = https://github.com/mjknj18/Pharmaceutical-Treatment-Result-Analysis/blob/master/Images/Tumor_Response_to_Treatment.jpg>
 
